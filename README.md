@@ -3,14 +3,14 @@ fish feeder control and monitoring project utilizing the ESP32 microcontroller, 
 
 Features:
 
-**Real-Time Monitoring: **
+Real-Time Monitoring: 
 Users can directly view the fish feeder's condition, including feeder status, feed levels, and other information through the Blynk interface.
 
-**Scheduled Feeding Control: **
+Scheduled Feeding Control: 
 The system allows users to set automated feeding schedules based on time or specific needs.
 
-**LCD Information Display: **
+LCD Information Display: 
 The 16X2 LCD provides a direct display of fish feeder conditions, offering instant insights to users.
 
-**Manual Control: **
+Manual Control: 
 Users have the flexibility to manually trigger the fish feeder through the Blynk app, providing instant control when needed.
